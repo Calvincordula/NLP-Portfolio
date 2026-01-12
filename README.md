@@ -5,6 +5,11 @@ This repository contains Jupyter notebooks on the basics of Natural Language Pro
 - Semantics & Modeling: Sentiment Analysis, Topic Modeling, Text Vectorization (TF-IDF, Word Embeddings), Feature Engineering
 - Preprocessing: Tokenization, Normalization, Stop word removal, Lemmatization, Stemming, Data Augmentation
 
+Main Project:
+7.0 - Fake News Categorization & Detection
+- Developed a custom classifier to categorize misinformation using Logistic Regression, Linear SVM and Naive Bayes.
+- Applied advanced Text Vectorization and Feature Engineering to identify linguistic cues typical of fraudulent news articles.
+- Achieved high precision in identifying "concealed topics" through LDA (Topic Modeling).
 
 # Installed Packages
 
